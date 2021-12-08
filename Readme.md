@@ -16,4 +16,3 @@
 - Determining Performance Metrics
 - Finding Variable Importance
 - Plotting Variable Importance
-- Evaluating Random Search
