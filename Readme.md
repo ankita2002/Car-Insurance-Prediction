@@ -16,5 +16,4 @@
 - Determining Performance Metrics
 - Finding Variable Importance
 - Plotting Variable Importance
-- Improving the Model by Hyperparameter Tuning
 - Evaluating Random Search
